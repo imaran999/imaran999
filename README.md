@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Imran Alam</h1>
+<h1 align="center">Hi 👋, I'm  Imran Alam</h1>
 <h3 align="center">Full-Stack Developer | EdTech Specialist | SEO & Meta Ads Expert 🚀</h3>
 
 <p align="center"> 
